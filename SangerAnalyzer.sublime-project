@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":
+    [
+        {
+            "name": "python",
+            "shell_cmd": "python ${file_base_name}"
+        },
+        {
+            "name": "python_test",
+            "shell_cmd": "python -m unittest ${file_base_name}"
+        }
+    ]
+}

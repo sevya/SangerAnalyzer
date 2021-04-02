@@ -1,0 +1,8 @@
+parent_aa*
+parent_nt*
+dist/
+build/
+SangerAnalyzer.spec
+sanger_aa*
+sanger_nt*
+__pycache__/                                                                                                            class_refactoring/

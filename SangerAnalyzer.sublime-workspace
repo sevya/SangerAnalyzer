@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"make",
+				"makeblastdb_nt_cmd"
+			],
+			[
+				"paret",
+				"parent_sequence"
+			],
+			[
+				"all_",
+				"all_params_input"
+			],
+			[
+				"O",
+				"O"
+			],
+			[
+				"di",
+				"dihedral_groups"
+			],
+			[
+				"dih",
+				"dihedral_array"
+			],
+			[
+				"die",
+				"dihedral_array"
+			],
+			[
+				"ener",
+				"energy_list"
+			],
+			[
+				"seq",
+				"sequence_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/SangerAnalyzer"
+	],
+	"file_history":
+	[
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/Sanger_analyzer/dist/SangerAnalyzer/SangerAnalyzer.exe.manifest",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Desktop/Souad sequencing data/c8-T7-Term.ab1",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/Sanger_analyzer/SangerAnalyzer.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/SG1441_alone_charmm.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/topol.top",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/complex.gro",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/XTP.gro",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/XTP_docked.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/XTP.str",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/rosetta_modeling/complex_original.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/rosetta_modeling/adenine.cst",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_B2_AT565/rosetta_modeling/guanine.cst",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/Sanger_analyzer/sanger_aa.fasta",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/Sanger_analyzer/parent_aa.fasta",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/Sanger_analyzer/sanger_nt.fasta",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/Sanger_analyzer/sanger_nt.fasta.out",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/topol.top",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/complex.gro",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/XTP.gro",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/XTP_docked.str",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/XTP_docked_clean.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/SG1441_alone_charmm.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/XTP_docked.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/rdkit_modeling.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/GTP_V4.1_R_L3_AF647.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/rosetta_modeling/guanine.cst",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/rosetta_modeling/SG1441_XTP.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/rosetta_modeling/XTP_0001.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dGTP_V4.1_L3_AF647/rosetta_modeling/complex_docked.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/nucs/rdkit_modeling.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dTTP_V4.1_L3/pressure.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dTTP_V4.1_L3/SG1441_alone_charmm.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dTTP_V4.1_L3/SG1441_alone.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dTTP_V4.1_L3/XTP.str",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/complex_dTTP_V4.1_L3/XTP.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_L0/XTP_L0_clean.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_V3trigger/XTP_V3trigger_clean.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_V4trigger/XTP_V4trigger_clean.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_L0/XTP_L0.str",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_V3trigger/XTP_V3trigger.str",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_V4trigger/XTP_V4trigger.str",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_L0/solvate.sh",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_V4trigger/XTP_V4trigger.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_V3trigger/XTP_V3trigger.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_L0/XTP_L0.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/rmsd_cna.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/rdf_P_all.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/analysis.sh",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/analysis.sh",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/rdf_P_nearest.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/rdf_P1_nearest.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/rdf_P2_nearest.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/rdf_P_nearest.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/plot_distances.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O1-O2_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O6-O7_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O4-O5_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O3-O5_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O3-O4_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O2-O_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O1-O_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O6-O8_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/cna_modeling/O7-O8_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/O1-O2_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/O-O1_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/O-O2_dist.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_L3/cluster_dihedrals.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/THPP_C.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/cgenff_tutorial/tutorial.orig/README",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/plot_xvg.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dATP_V4.1_L3/rmsd_xtp_complex.xvg",
+		"/C/Users/Alex/thpp_ffparam/ffparam_omm.out",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/testing_MD/thpp_modeling/thpp-fftk.gau",
+		"/C/Users/Alex/Downloads/test.out",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/production_MD/alone_dTTP_V4.1_L3/md_0_20.cpt",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/modified_nuc_MD/cluster_dihedrals.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/hbond_1.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Desktop/useful_commands.txt",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/modified_nuc_MD/head_to_tail.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/plot_xvg.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/potential.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/xtp.str",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/XTP.mol2",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/XTP.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/rosetta_docking/adenine.cst",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/charmm.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/complex_original_dock_0050.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/complex_original_dock_0050_dnaa.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/modified_nuc_MD/rmsd_xtp.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/rosetta_docking/ligand_dock.xml",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/rosetta_docking/renumber_pdb_norestart.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/rosetta_docking/complex_original.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/SG1441_Mg_5omq_0001_relax_redo_0006_aln_Mg_replaced.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/rosetta_docking/complex_original_renum.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/rosetta_docking/reorder_pdb_chains.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/complex_modified_nuc_MD/rosetta_docking/y",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/modified_nuc_MD/plot_xvg.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/potential.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/temperature.xvg",
+		"/C/Users/Alex/Downloads/md_input/md_input/protocol_capture.md",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/SG1441_L3-dye/R/ligand_only.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/ligand_building/V4.1_conformers/rdkit_modeling.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/ligand_building/rdkit_modeling.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/SG1441_L3-dye/notes.txt",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/SG1441_L3-dye/R/SG1441_Mg_5omq_V4.1_R_L3-dye_nophos.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/SG1441_L3-dye/R/build_topol/V4R_renamed.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/SG1441_L3-dye/R/SG1441_Mg_5omq_V4.1_R_L3-dye_no_ligand.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/lysozyme/rmsd.xvg",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/ligand_building/tethered_docking/tethered_docking.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/SD enzyme analysis/Cloning/Chis cloning sequencing/30-473611827.fasta",
+		"/C/Users/Alex/Downloads/dA-L3-dye-redownload.pdb",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/phi29_CSR/Post-R5 sequencing/full_pipeline_insertions.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/ligand_building/rdkit_conformer_energies.txt",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/ligand_building/clash_detection/clash_detection.xml",
+		"/C/Users/Alex/Downloads/ALEXSEVY01-28-2021_171215_130/30-473024859.fasta",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/ligand_building/save_conformers.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/phi29_CSR/Post-R4 sequencing/full_pipeline_insertions.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/phi29_CSR/Post-R2 sequencing/full_pipeline_insertions.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/phi29_CSR/Post-R2 sequencing/lib-R2.nt.fasta",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Desktop/merged_fastq.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/phi29_CSR/Automated sequencing pipeline/full_pipeline.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/phi29_CSR/Post-R2 sequencing/full_pipeline.py",
+		"/C/Users/Alex/OneDrive - Singular Genomics Systems/Documents/phi29_CSR/Automated sequencing pipeline/lib-R2.aa.fasta"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"UNL1",
+			"XTP11",
+			"TODO",
+			"trim_sequence",
+			"try",
+			"start_idx",
+			"width",
+			"is_int",
+			"is_float",
+			"divide_chunks",
+			"translate",
+			"format_html",
+			"trim_sequence",
+			"limit",
+			"XTP788",
+			"  1  UNL1",
+			"XTP788",
+			"  1  UNL1",
+			"XTP788",
+			" D ",
+			"ADE",
+			"THY",
+			"CYT",
+			"GUA",
+			"np.",
+			"os",
+			"sys",
+			"subprocess",
+			"XTP X   1",
+			"HD-1-T7",
+			"print",
+			"print(",
+			"format_html",
+			"\n\t\t",
+			"args",
+			"wt_aa",
+			"remove previous",
+			"HD-1",
+			"    ",
+			"not found",
+			".html",
+			"translate",
+			"write_AA",
+			"all_muts",
+			"write_AA",
+			"format_html",
+			"all_html",
+			"</br>",
+			"format_html",
+			"ljust",
+			"format_html",
+			"insertions",
+			"  1XTP",
+			" D ",
+			"CYT",
+			"THY",
+			"GUA",
+			"ADE",
+			"XTP788",
+			"  1  UNL1  ",
+			"  1  UNL1   ",
+			"  1  UNL1  ",
+			"  1  XTP",
+			"UNL1",
+			"XTP788788",
+			" D ",
+			"THY",
+			"ADE",
+			"CYT",
+			"GUA",
+			"0 0.5",
+			"X   1",
+			"2  XTP",
+			"XTP1",
+			"UNL1",
+			"UNL11",
+			"DG80622",
+			"UNL111",
+			"UNL1",
+			"788  XTP788",
+			"CYT",
+			"THY",
+			"ADE",
+			"GUA",
+			"UNL1",
+			"XTP11",
+			"UNL1",
+			"UNL11",
+			"XTP11",
+			"UNL1",
+			"XTP11",
+			"***",
+			"UNL1",
+			"UNL11",
+			"XTP11",
+			"UNL1",
+			"    ",
+			"group 17",
+			".xvg",
+			"center.pdb",
+			"center_water.xtc",
+			"UNL1",
+			"THPPC1",
+			"C4",
+			"H8",
+			"UNL1",
+			"XTP11",
+			"^     ([0-9][0-9]) ([OCH])  ",
+			"^     ([0-9][0-9]) ([OCH]) ",
+			"^     ([0-9][0-9]) ([OCH])",
+			"      ([0-9]) ([OCH]) ",
+			"^     ([0-9][0-9]) ([OCH])",
+			"      ([0-9]) ([OCH]) ",
+			"      1 O ",
+			"      ([0-9]) ([OCH])",
+			"X   1",
+			"XTP A",
+			"for ii in range",
+			"TODO",
+			"for ii in range",
+			"for ii in range'",
+			"for ii in range",
+			"^\\t",
+			"PG0",
+			"H22",
+			"C4",
+			"PG1",
+			"','"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"XTP ",
+			"XTP  ",
+			"self._divide_chunks",
+			"self._translate",
+			"self._format_html",
+			"XTP   ",
+			"XTP  ",
+			"788  XTP ",
+			"XTP   ",
+			"788  XTP ",
+			"XTP   ",
+			" E ",
+			"DA ",
+			"DT ",
+			"DC ",
+			"DG ",
+			"XTP X 788",
+			"HD-3",
+			"HD-2",
+			"\\t",
+			"788XTP",
+			" E ",
+			"DC ",
+			"DT ",
+			"DG ",
+			"DA ",
+			"XTP   ",
+			"788  XTP   ",
+			"788 XTP    ",
+			"788 XTP   ",
+			"788  XTP",
+			"XTP ",
+			"XTP      ",
+			" E ",
+			"DT ",
+			"DA ",
+			"DC ",
+			"DG ",
+			"0 0.25",
+			"X 788",
+			"1  XTP",
+			"XTP ",
+			"XTP1",
+			"XTP1 ",
+			"XTP1   ",
+			"XTP1  ",
+			"XTP1",
+			"  1  XTP1  ",
+			"DC ",
+			"DT ",
+			"DA ",
+			"DG ",
+			"XTP1",
+			"XTP1 ",
+			"XTP1",
+			"XTP1 ",
+			"XTP1",
+			"XTP1 ",
+			"XTP1",
+			"XTP1 ",
+			"XTP1",
+			"\\t",
+			"group 22",
+			".xvg && ",
+			"center_nosolv.xtc",
+			"center_solv.xtc",
+			"CNA1",
+			"THPPP1",
+			"P1",
+			"XTP1",
+			"XTP1 ",
+			"     $1 $2$1",
+			"     $1 $2$1 ",
+			"     $1 $2$1",
+			"     $1$2 $3$1$2",
+			"      $1 $2$1",
+			"      $1 $2",
+			"X 788",
+			"XTP X",
+			"PG1",
+			"P1",
+			"PG0",
+			"',\\t'",
+			"THPP1",
+			"XTP1",
+			"XTP1 ",
+			"  1  XTP1 ",
+			"XTP1",
+			"  1  ",
+			"XTP1 ",
+			"XTP1",
+			"\\n",
+			"CNA ",
+			"THPP",
+			"\\t$1",
+			"\\t",
+			"\\n",
+			"\\t",
+			"",
+			"\\n",
+			"",
+			"-$1",
+			"",
+			"], \\\\\\n",
+			"], \\",
+			"[",
+			"788XTP",
+			"XTP   ",
+			"XTP ",
+			"DG ",
+			"DT ",
+			"DTA ",
+			"DA ",
+			"DC ",
+			"  E ",
+			"DNAA",
+			"DA ",
+			"DG ",
+			"DC ",
+			"C  ",
+			"DT ",
+			"XTP X 999",
+			"ATOM  ",
+			"XTP A 806",
+			"XTP1",
+			"XTP X   1",
+			"XTP X",
+			"           "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 305.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SangerAnalyzer.sublime-project",
+	"replace":
+	{
+		"height": 70.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
